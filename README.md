@@ -1,8 +1,4 @@
 ```mermaid
----
-config:
-  theme: default
----
 architecture-beta
 
 cards:
